@@ -1,8 +1,8 @@
 # - 👋 Hi, I’m Joyce Pereira Oliveira
 
-<h3> - 👀 I’m interested in read, games and drawing, design </h3>
-<h3> - 🌱 I’m currently learning Python, C#, Javascript </h3>
-<h3> - 💞️ I’m looking to collaborate on on any task assigned to me </h3>
+<h3> - ⭐ I’m interested in read, games and drawing, design </h3>
+<h3> - 📚 I’m currently learning Python, C#, Javascript </h3>
+<h3> - 🤝 I’m looking to collaborate on on any task assigned to me </h3>
 <h3> - 📫 How to reach me </h3>
 
 <br>
